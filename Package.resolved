@@ -1,0 +1,33 @@
+{
+  "originHash" : "95b0a69231ff272cf708b54a60485a331c09e7b2877a0f38011fb0c31bc6655d",
+  "pins" : [
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "6a52f3251125d74daf04fcbd5e6f08a75d074382",
+        "version" : "1.8.2"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "c9c6bb9d275ec0d95c3ad16391f3f045dc623104",
+        "version" : "1.16.2"
+      }
+    },
+    {
+      "identity" : "videohash",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fdenis75/VideoHash.git",
+      "state" : {
+        "revision" : "19880d9910c51ca54dd84566635756b4b5716d1a",
+        "version" : "0.4.1"
+      }
+    }
+  ],
+  "version" : 3
+}
