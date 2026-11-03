@@ -1,10 +1,10 @@
 class Vhash < Formula
   desc "Compute phash and oshash for video files"
-  homepage "https://github.com/fdenis75/vhash"
-  url "https://github.com/fdenis75/vhash/archive/refs/tags/v0.1.0.tar.gz"
+  homepage "https://github.com/fdenis75/macVHash"
+  url "https://github.com/fdenis75/macVHash/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "0000000000000000000000000000000000000000000000000000000000000000" # placeholder: run scripts/release.sh
   license "MIT"
-  head "https://github.com/fdenis75/vhash.git", branch: "main"
+  head "https://github.com/fdenis75/macVHash.git", branch: "master"
 
   depends_on xcode: ["26.0", :build]
   depends_on "ffmpeg"
