@@ -2,7 +2,7 @@ class Vhash < Formula
   desc "Compute phash and oshash for video files"
   homepage "https://github.com/fdenis75/macVHash"
   url "https://github.com/fdenis75/macVHash/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000" # placeholder: run scripts/release.sh
+  sha256 "3cb21af1e22f3970429850b65fddf556b463efb17b99bec5245a30a0388f37bd" # placeholder: run scripts/release.sh
   license "MIT"
   head "https://github.com/fdenis75/macVHash.git", branch: "master"
 
